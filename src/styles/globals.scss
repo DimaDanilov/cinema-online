@@ -1,3 +1,5 @@
+@use "./global/colors.scss";
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -10,5 +12,7 @@ body {
   margin-right: calc(-1 * (100vw - 100%));
 }
 body {
+  background-color: colors.$color-background-primary;
+  color: colors.$color-text-primary;
   overflow-x: hidden;
 }

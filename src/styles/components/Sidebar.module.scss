@@ -1,0 +1,20 @@
+@use "../global/colors.scss";
+
+.navigation-sidebar {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 30px 40px;
+}
+.icons-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.main-icon {
+  color: colors.$color-text-primary;
+}
+.sidebar-icon {
+  color: colors.$color-text-secondary;
+}
