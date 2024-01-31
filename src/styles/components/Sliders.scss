@@ -45,3 +45,15 @@
   overflow: hidden;
   white-space: nowrap;
 }
+
+.top-viewers-number {
+  left: 0;
+  bottom: 0;
+  transform: translate(-75%); // Movement of the number to left and right
+  z-index: -1;
+  vertical-align: bottom;
+}
+
+.top-viewers-link {
+  display: inline-block;
+}

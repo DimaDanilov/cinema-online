@@ -19,15 +19,18 @@ export const TopViewsSlider = () => {
         <TextCyberStyle fontSize="middle">ТОП-10</TextCyberStyle> просмотров за
         неделю
       </h2>
-      <Swiper slidesPerView={"auto"} spaceBetween={80}>
-        {topViewMovies.map((movie) => (
+      <Swiper slidesPerView={"auto"} spaceBetween={150} slidesOffsetBefore={90}>
+        {topViewMovies.map((movie, index) => (
           <SwiperSlide key={movie.id}>
-            <Link
-              href={`/series/${movie.id}`}
-              className="newMovies-slider-element"
-            >
-              <img src={movie.imgUrl} alt="" />
-            </Link>
+            <div className="relative">
+              <TextCyberStyle
+                fontSize="big"
+                className="absolute top-viewers-number"
+              >{`${++index}`}</TextCyberStyle>
+              <Link href={`/series/${movie.id}`} className="top-viewers-link">
+                <img src={movie.imgUrl} alt="" />
+              </Link>
+            </div>
           </SwiperSlide>
         ))}
       </Swiper>

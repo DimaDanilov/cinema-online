@@ -6,7 +6,6 @@ export const MainLogo = (props: AnyProps) => (
     width={32}
     height={50}
     fill="none"
-    stroke="currentColor"
     {...props}
   >
     <path

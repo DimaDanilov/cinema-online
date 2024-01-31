@@ -3,8 +3,8 @@ import { AnyProps } from "@/types/AnyProps";
 export const SearchIcon = (props: AnyProps) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width={24}
-    height={24}
+    width={28}
+    height={28}
     fill="currentColor"
     stroke="currentColor"
     viewBox="0 -960 960 960"
