@@ -3,7 +3,7 @@ import { AnyProps } from "@/types/AnyProps";
 export const MainLogo = (props: AnyProps) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width={144}
+    width={32}
     height={50}
     fill="none"
     stroke="currentColor"

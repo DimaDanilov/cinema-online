@@ -1,11 +1,14 @@
-@use "../global/colors.scss";
+@use "../global/variables.scss";
 
 .navigation-sidebar {
   position: fixed;
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 50px;
-  padding: 30px 40px;
+  padding: 30px 2%;
+  width: 5%;
+  z-index: 99999;
 }
 .icons-container {
   display: flex;
@@ -13,8 +16,8 @@
   gap: 20px;
 }
 .main-icon {
-  color: colors.$color-text-primary;
+  color: variables.$color-text-primary;
 }
 .sidebar-icon {
-  color: colors.$color-text-secondary;
+  color: variables.$color-text-secondary;
 }

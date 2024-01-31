@@ -1,0 +1,41 @@
+@use "../global/variables.scss";
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  width: auto;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: fit-content;
+  height: 300px;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+.newMovies-slider-element {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.newMovies-slider-element-title {
+  text-align: start;
+  text-decoration: none;
+  color: variables.$color-text-primary;
+  font-size: large;
+  font-weight: 300;
+  overflow: hidden;
+  white-space: nowrap;
+}

@@ -1,15 +1,12 @@
 import { PageLayout } from "@/layouts/PageLayout/PageLayout";
-import styles from "./page.module.scss";
-import Link from "next/link";
+import { NewMoviesSlider } from "@/components/HomePage/NewMoviesSlider";
 
 export default function Home() {
   return (
     <PageLayout>
-      <div>
-        <h1>Home Page</h1>
-      </div>
+      <h1 className="text-center">Home Page</h1>
 
-      <Link href={"/series/4"}>Page 4</Link>
+      <NewMoviesSlider />
     </PageLayout>
   );
 }
