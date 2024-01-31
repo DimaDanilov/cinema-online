@@ -7,12 +7,19 @@ const mainPremiere: MainPremiereModel = mainPremiereData;
 
 export const MainPremiere = () => {
   return (
-    <div className={styles["premiere-container"]}>
-      <img src={mainPremiere.movieLogoUrl} alt="" />
-      <p>{mainPremiere.description}</p>
-      <div className={styles["button-container"]}>
-        <Button background="cyber">Смотреть</Button>
-        <Button background="gray">О фильме</Button>
+    <div className="relative">
+      <img
+        src={mainPremiere.backgroundImage}
+        alt=""
+        className={["absolute", styles["premiere-background"]].join(" ")}
+      />
+      <div className={styles["premiere-container"]}>
+        <img src={mainPremiere.movieLogoUrl} alt="" />
+        <p>{mainPremiere.description}</p>
+        <div className={styles["button-container"]}>
+          <Button background="cyber">Смотреть</Button>
+          <Button background="gray">О фильме</Button>
+        </div>
       </div>
     </div>
   );
