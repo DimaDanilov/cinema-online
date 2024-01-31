@@ -3,6 +3,7 @@
   right: 0;
   top: 0;
   width: 60%;
+  min-width: 750px;
 }
 
 .premiere-container {
@@ -14,6 +15,7 @@
   margin: 200px auto 0;
 
   img {
+    min-width: 250px;
     width: 70%;
   }
 
