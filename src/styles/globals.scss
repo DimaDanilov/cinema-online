@@ -17,6 +17,20 @@ body {
   overflow-x: hidden;
 }
 
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: variables.$color-scroll-bar transparent;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 9px;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: variables.$color-scroll-bar;
+}
+
 .text-center {
   text-align: center;
 }
