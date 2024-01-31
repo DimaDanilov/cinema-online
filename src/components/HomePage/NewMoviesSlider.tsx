@@ -7,9 +7,9 @@ import "swiper/css";
 import "@/styles/components/Sliders.scss";
 
 import newMoviesData from "@/data/newMovies.json";
-import { MovieInfo } from "@/types/MovieInfo";
+import { MovieInfoModel } from "@/types/MovieInfo";
 import Link from "next/link";
-const newMovies: MovieInfo[] = newMoviesData.data;
+const newMovies: MovieInfoModel[] = newMoviesData.data;
 
 export const NewMoviesSlider = () => {
   return (

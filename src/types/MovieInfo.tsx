@@ -1,4 +1,4 @@
-export type MovieInfo = {
+export type MovieInfoModel = {
   id: number;
   name: string;
   imgUrl: string;

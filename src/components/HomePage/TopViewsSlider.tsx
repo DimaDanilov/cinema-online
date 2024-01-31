@@ -7,10 +7,10 @@ import "swiper/css";
 import "@/styles/components/Sliders.scss";
 
 import topViewMoviesData from "@/data/topViewMovies.json";
-import { MovieInfo } from "@/types/MovieInfo";
+import { MovieInfoModel } from "@/types/MovieInfo";
 import Link from "next/link";
 import { TextCyberStyle } from "@/ui/TextCyberStyle";
-const topViewMovies: MovieInfo[] = topViewMoviesData.data;
+const topViewMovies: MovieInfoModel[] = topViewMoviesData.data;
 
 export const TopViewsSlider = () => {
   return (

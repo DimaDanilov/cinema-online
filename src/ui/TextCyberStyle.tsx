@@ -1,4 +1,4 @@
-import styles from "@/styles/components/TextCyberStyle.module.scss";
+import styles from "@/styles/ui/TextCyberStyle.module.scss";
 import { AnyProps } from "@/types/AnyProps";
 
 interface TextCyberStyleProps extends AnyProps {
