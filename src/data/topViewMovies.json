@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 9,
+      "name": "Мое прекрасное несчастье",
+      "imgUrl": "/images/TopViewsMovies/Beautiful_Disaster.png"
+    },
+    {
+      "id": 10,
+      "name": "Красное уведомление",
+      "imgUrl": "/images/TopViewsMovies/Red_Notice.png"
+    },
+    {
+      "id": 11,
+      "name": "Ведьмак",
+      "imgUrl": "/images/TopViewsMovies/Witcher.png"
+    },
+    {
+      "id": 12,
+      "name": "Соник Прайм",
+      "imgUrl": "/images/TopViewsMovies/Sonic_Prime.png"
+    },
+    {
+      "id": 13,
+      "name": "Черное Зеркало",
+      "imgUrl": "/images/TopViewsMovies/Black_Mirror.png"
+    },
+    {
+      "id": 14,
+      "name": "Интерстеллар",
+      "imgUrl": "/images/TopViewsMovies/Interstellar.png"
+    },
+    {
+      "id": 15,
+      "name": "Начало",
+      "imgUrl": "/images/TopViewsMovies/Inception.png"
+    },
+    {
+      "id": 16,
+      "name": "Клаус",
+      "imgUrl": "/images/TopViewsMovies/Klaus.png"
+    },
+    {
+      "id": 17,
+      "name": "Врата Штейна",
+      "imgUrl": "/images/TopViewsMovies/Steins_Gate.png"
+    },
+    {
+      "id": 18,
+      "name": "Человек-Паук 2",
+      "imgUrl": "/images/TopViewsMovies/Spider_Man_2.png"
+    }
+  ]
+}

@@ -24,6 +24,12 @@
   object-fit: cover;
 }
 
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
 .newMovies-slider-element {
   display: flex;
   flex-direction: column;

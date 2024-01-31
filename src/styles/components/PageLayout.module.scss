@@ -1,7 +1,9 @@
 .layout-container {
   display: flex;
   flex-direction: column;
+  gap: 50px;
   justify-content: space-between;
-  width: 90%;
+  width: calc(100% - 120px);
   margin: 0 0 auto auto;
+  padding-bottom: 80px;
 }

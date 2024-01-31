@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Синий Жук",
+      "imgUrl": "/images/newMovies/Blue_Beetle.png"
+    },
+    {
+      "id": 2,
+      "name": "Домашняя Игра",
+      "imgUrl": "/images/newMovies/Home_Team.png"
+    },
+    {
+      "id": 3,
+      "name": "Салют 7",
+      "imgUrl": "/images/newMovies/Salute_Seven.png"
+    },
+    {
+      "id": 4,
+      "name": "Поймай меня, если сможешь",
+      "imgUrl": "/images/newMovies/Catch_Me_If_You_Can.png"
+    },
+    {
+      "id": 5,
+      "name": "Медиатор 3",
+      "imgUrl": "/images/newMovies/Mediator_3.png"
+    },
+    {
+      "id": 6,
+      "name": "Иван Васильевич меняет всё",
+      "imgUrl": "/images/newMovies/Ivan_Change_Everything.png"
+    },
+    {
+      "id": 7,
+      "name": "По щучьему веленью",
+      "imgUrl": "/images/newMovies/Pike_Wish.png"
+    },
+    {
+      "id": 8,
+      "name": "Звук свободы",
+      "imgUrl": "/images/newMovies/Sound_Of_Freedom.png"
+    }
+  ]
+}

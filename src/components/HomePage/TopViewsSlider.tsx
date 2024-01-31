@@ -6,24 +6,27 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "@/styles/components/Sliders.scss";
 
-import newMoviesData from "@/data/newMovies.json";
+import topViewMoviesData from "@/data/topViewMovies.json";
 import { MovieInfo } from "@/types/MovieInfo";
 import Link from "next/link";
-const newMovies: MovieInfo[] = newMoviesData.data;
+import { TextCyberStyle } from "@/ui/TextCyberStyle";
+const topViewMovies: MovieInfo[] = topViewMoviesData.data;
 
-export const NewMoviesSlider = () => {
+export const TopViewsSlider = () => {
   return (
     <div className="slider-container">
-      <h2>Новинки</h2>
-      <Swiper slidesPerView={"auto"} spaceBetween={30} loop={true}>
-        {newMovies.map((movie) => (
+      <h2>
+        <TextCyberStyle fontSize="middle">ТОП-10</TextCyberStyle> просмотров за
+        неделю
+      </h2>
+      <Swiper slidesPerView={"auto"} spaceBetween={80}>
+        {topViewMovies.map((movie) => (
           <SwiperSlide key={movie.id}>
             <Link
               href={`/series/${movie.id}`}
               className="newMovies-slider-element"
             >
               <img src={movie.imgUrl} alt="" />
-              <h3 className="newMovies-slider-element-title">{movie.name}</h3>
             </Link>
           </SwiperSlide>
         ))}

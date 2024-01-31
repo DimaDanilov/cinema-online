@@ -1,0 +1,20 @@
+@use "../global/variables.scss";
+
+.cyber-text {
+  background: variables.$color-cyber-gradient;
+  color: variables.$color-background-primary;
+  background-size: 200% 200%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-style: italic;
+  -webkit-text-stroke: 3px transparent;
+
+  &.middle {
+    font-size: 28px;
+    padding: 3px;
+  }
+  &.big {
+    font-size: 240px;
+    padding: 18px;
+  }
+}

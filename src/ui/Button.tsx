@@ -1,9 +1,10 @@
 "use client";
 
-type ButtonProps = {
+import { AnyProps } from "@/types/AnyProps";
+
+interface ButtonProps extends AnyProps {
   children: string;
-  [x: string]: any;
-};
+}
 
 export const Button = ({ children, ...props }: ButtonProps) => {
   return <button {...props}>{children}</button>;
