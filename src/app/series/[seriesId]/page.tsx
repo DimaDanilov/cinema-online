@@ -4,6 +4,7 @@ import styles from "./page.module.scss";
 import { MovieInfoModel } from "@/types/MovieInfo";
 import { findMovieById } from "@/utils/findMovieById";
 import { BriefInfo } from "@/components/SeriesPage/BriefInfo";
+import { DescriptionSection } from "@/components/SeriesPage/DescriptionSection";
 
 export default function SeriesPage({
   params,
@@ -23,6 +24,10 @@ export default function SeriesPage({
         genres={movie.genres}
         countries={movie.countries}
         age={movie.age}
+      />
+      <DescriptionSection
+        description={movie.description}
+        warnings={movie.warnings}
       />
     </PageLayout>
   );

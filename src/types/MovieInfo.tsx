@@ -9,6 +9,9 @@ export type MovieInfoModel = {
     short: string;
     full: string;
   };
+  warnings?: {
+    scenesAlcoSmoking?: boolean;
+  };
   logoUrl: string;
   backgroundImage: string;
   countries: string[];

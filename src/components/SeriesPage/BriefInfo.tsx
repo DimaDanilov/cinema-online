@@ -50,13 +50,13 @@ export const BriefInfo = ({
         <div className={styles["brief-characteristics"]}>
           <Button background="gray">{rating}</Button>
           <div className={styles["chars-section-container"]}>
-            {countries.map((country) => (
-              <h6>{country}</h6>
+            {countries.map((country, index) => (
+              <h6 key={index}>{country}</h6>
             ))}
           </div>
           <div className={styles["chars-section-container"]}>
-            {genres.map((genre) => (
-              <h6>{genre}</h6>
+            {genres.map((genre, index) => (
+              <h6 key={index}>{genre}</h6>
             ))}
           </div>
           <h6>{age}</h6>
