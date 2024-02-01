@@ -20,7 +20,7 @@ body {
 /* Works on Firefox */
 * {
   scrollbar-width: thin;
-  scrollbar-color: variables.$color-scroll-bar transparent;
+  scrollbar-color: variables.$color-background-secondary transparent;
 }
 
 /* Works on Chrome, Edge, and Safari */
@@ -28,7 +28,7 @@ body {
   width: 9px;
 }
 *::-webkit-scrollbar-thumb {
-  background-color: variables.$color-scroll-bar;
+  background-color: variables.$color-background-secondary;
 }
 
 .text-center {

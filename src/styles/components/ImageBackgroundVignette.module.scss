@@ -1,0 +1,49 @@
+@use "../global/variables.scss";
+
+.image-container {
+  z-index: -1;
+  right: 0;
+  top: 0;
+  width: 60%;
+  min-width: 750px;
+}
+
+.vignette-left {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    270deg,
+    transparent 80%,
+    variables.$color-background-primary 100%
+  );
+  height: 100%;
+  width: 100%;
+}
+
+.vignette-bottom {
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    transparent 70%,
+    variables.$color-background-primary 100%
+  );
+  height: 100%;
+  width: 100%;
+}
+
+.vignette-radial {
+  top: 0;
+  left: 0;
+  background: radial-gradient(
+    ellipse at 50% 50%,
+    transparent 40%,
+    variables.$color-background-primary 200%
+  );
+  height: 100%;
+  width: 100%;
+}
+
+.series-background-img {
+  width: 100%;
+}

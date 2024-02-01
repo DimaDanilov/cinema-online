@@ -1,0 +1,44 @@
+@use "ImageBackgroundVignette.module.scss";
+
+.block-container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  min-width: 300px;
+  width: 50%;
+  margin: 50px 0;
+}
+
+.brief-characteristics {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+
+  h6 {
+    font-size: large;
+    font-weight: 300;
+  }
+}
+
+.chars-section-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  text-transform: capitalize;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.img-logo {
+  width: 75%;
+}
+
+.img-replacement {
+  width: 75%;
+  font-size: 75px;
+}

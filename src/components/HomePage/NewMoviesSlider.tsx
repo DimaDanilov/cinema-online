@@ -23,7 +23,9 @@ export const NewMoviesSlider = () => {
               className="newMovies-slider-element"
             >
               <img src={movie.posterUrl} alt="" />
-              <h3 className="newMovies-slider-element-title">{movie.name}</h3>
+              <h3 className="newMovies-slider-element-title">
+                {movie.name.rus}
+              </h3>
             </Link>
           </SwiperSlide>
         ))}

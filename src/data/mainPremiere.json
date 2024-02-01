@@ -1,8 +1,19 @@
 {
   "id": 19,
-  "name": "Индиана Джонс и Колесо Судьбы",
+  "name": {
+    "rus": "Индиана Джонс и Колесо Судьбы",
+    "original": "Indiana Jones and the Dial of Destiny"
+  },
+  "description": {
+    "short": "Неувядающий авантюрист и пытливый археолог-исследователь по‑прежнему в седле.",
+    "full": "Почувствуйте возвращение легендарного героя, Индианы Джонса, в пятой части этого любимого сериала фильмов о приключениях. Оказавшись в новой эпохе и приближаясь к пенсии, Инди сталкивается с трудностями вписаться в мир, который, кажется, вырос за его пределами. Но когда щупальца слишком знакомого зла возвращаются в виде старого соперника, Инди должен снова надеть свою шляпу и взять в руки свой кнут, чтобы убедиться, что древний и могущественный артефакт не попадет в неправильные руки."
+  },
   "posterUrl": "/images/Movies/Posters/Indiana_Jones_and_the_Dial_of_Destiny.png",
-  "description": "Неувядающий авантюрист и пытливый археолог-исследователь по‑прежнему в седле.",
-  "movieLogoUrl": "/images/Movies/Logo/Indiana_Jones_and_the_Dial_of_Destiny.png",
-  "backgroundImage": "/images/Movies/Backgrounds/Indiana_Jones_and_the_Dial_of_Destiny.png"
+  "logoUrl": "/images/Movies/Logo/Indiana_Jones_and_the_Dial_of_Destiny.png",
+  "backgroundImage": "/images/Movies/Backgrounds/Indiana_Jones_and_the_Dial_of_Destiny.png",
+  "countries": ["США"],
+  "age": "13+",
+  "rating": 6.5,
+  "genres": ["фантастика", "боевик", "приключения"],
+  "quality": "Full HD"
 }
