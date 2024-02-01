@@ -2,6 +2,7 @@ export type EpisodeModel = {
   id: number;
   duration: string;
   previewImg: string;
+  date: string;
 };
 
 type SeasonModel = {

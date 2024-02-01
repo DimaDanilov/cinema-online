@@ -27,6 +27,7 @@ export default function SeriesPage({
         genres={movie.genres}
         countries={movie.countries}
         age={movie.age}
+        videos={movie.videos}
       />
       <VideoSection videos={movie.videos} />
       <DescriptionSection
@@ -40,6 +41,7 @@ export default function SeriesPage({
         genres={movie.genres}
         quality={movie.quality}
         audio={movie.audio}
+        videos={movie.videos}
       />
     </PageLayout>
   );

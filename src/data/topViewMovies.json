@@ -15,7 +15,8 @@
           {
             "id": 1,
             "duration": "96 минут",
-            "previewImg": "/images/Movies/Episodes/Beautiful_Disaster.jpg"
+            "previewImg": "/images/Movies/Episodes/Beautiful_Disaster.jpg",
+            "date": "2023-04-05"
           }
         ]
       },
@@ -44,7 +45,8 @@
           {
             "id": 1,
             "duration": "118 минут",
-            "previewImg": "/images/Movies/Episodes/Red_Notice.jpg"
+            "previewImg": "/images/Movies/Episodes/Red_Notice.jpg",
+            "date": "2021-11-04"
           }
         ]
       },
@@ -76,42 +78,50 @@
               {
                 "id": 1,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 2,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 3,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 4,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 5,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 6,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 7,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg",
+                "date": "2019-12-20"
               },
               {
                 "id": 8,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg",
+                "date": "2019-12-20"
               }
             ]
           },
@@ -121,42 +131,50 @@
               {
                 "id": 9,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 10,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 11,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 12,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 13,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 14,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 15,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg",
+                "date": "2021-12-17"
               },
               {
                 "id": 16,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg",
+                "date": "2021-12-17"
               }
             ]
           },
@@ -166,42 +184,50 @@
               {
                 "id": 17,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 18,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 19,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 20,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 21,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 22,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 23,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg",
+                "date": "2023-06-29"
               },
               {
                 "id": 24,
                 "duration": "60 минут",
-                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg",
+                "date": "2023-06-29"
               }
             ]
           }
@@ -235,47 +261,56 @@
               {
                 "id": 1,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 2,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 3,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 4,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 5,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 6,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 7,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 8,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg",
+                "date": "2022-12-15"
               },
               {
                 "id": 9,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg",
+                "date": "2022-12-15"
               }
             ]
           },
@@ -285,42 +320,50 @@
               {
                 "id": 10,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 11,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 12,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 13,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 14,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 15,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 16,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg",
+                "date": "2023-07-13"
               },
               {
                 "id": 17,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg",
+                "date": "2023-07-13"
               }
             ]
           },
@@ -330,37 +373,44 @@
               {
                 "id": 18,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg",
+                "date": "2024-01-11"
               },
               {
                 "id": 19,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg",
+                "date": "2024-01-11"
               },
               {
                 "id": 20,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg",
+                "date": "2024-01-11"
               },
               {
                 "id": 21,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg",
+                "date": "2024-01-11"
               },
               {
                 "id": 22,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg",
+                "date": "2024-01-11"
               },
               {
                 "id": 23,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg",
+                "date": "2024-01-11"
               },
               {
                 "id": 24,
                 "duration": "22 минуты",
-                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg",
+                "date": "2024-01-11"
               }
             ]
           }
@@ -397,17 +447,20 @@
               {
                 "id": 1,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg",
+                "date": "2011-12-04"
               },
               {
                 "id": 2,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg",
+                "date": "2011-12-11"
               },
               {
                 "id": 3,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg",
+                "date": "2011-12-18"
               }
             ]
           },
@@ -417,22 +470,26 @@
               {
                 "id": 4,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg",
+                "date": "2013-02-11"
               },
               {
                 "id": 5,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg",
+                "date": "2013-02-18"
               },
               {
                 "id": 6,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg",
+                "date": "2013-02-25"
               },
               {
                 "id": 7,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg",
+                "date": "2014-12-16"
               }
             ]
           },
@@ -442,32 +499,38 @@
               {
                 "id": 8,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg",
+                "date": "2016-10-21"
               },
               {
                 "id": 9,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg",
+                "date": "2016-10-21"
               },
               {
                 "id": 10,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg",
+                "date": "2016-10-21"
               },
               {
                 "id": 11,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg",
+                "date": "2016-10-21"
               },
               {
                 "id": 12,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg",
+                "date": "2016-10-21"
               },
               {
                 "id": 13,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg",
+                "date": "2016-10-21"
               }
             ]
           },
@@ -477,32 +540,38 @@
               {
                 "id": 14,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg",
+                "date": "2017-12-29"
               },
               {
                 "id": 15,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg",
+                "date": "2017-12-29"
               },
               {
                 "id": 16,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg",
+                "date": "2017-12-29"
               },
               {
                 "id": 17,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg",
+                "date": "2017-12-29"
               },
               {
                 "id": 18,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg",
+                "date": "2017-12-29"
               },
               {
                 "id": 19,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg",
+                "date": "2017-12-29"
               }
             ]
           },
@@ -512,17 +581,20 @@
               {
                 "id": 20,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg",
+                "date": "2019-06-05"
               },
               {
                 "id": 21,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg",
+                "date": "2019-06-05"
               },
               {
                 "id": 22,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg",
+                "date": "2019-06-05"
               }
             ]
           },
@@ -532,27 +604,32 @@
               {
                 "id": 23,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg",
+                "date": "2023-06-15"
               },
               {
                 "id": 24,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg",
+                "date": "2023-06-15"
               },
               {
                 "id": 25,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg",
+                "date": "2023-06-15"
               },
               {
                 "id": 26,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg",
+                "date": "2023-06-15"
               },
               {
                 "id": 27,
                 "duration": "43 минуты",
-                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg",
+                "date": "2023-06-15"
               }
             ]
           }
@@ -583,7 +660,8 @@
           {
             "id": 1,
             "duration": "169 минут",
-            "previewImg": "/images/Movies/Episodes/Interstellar.jpg"
+            "previewImg": "/images/Movies/Episodes/Interstellar.jpg",
+            "date": "2014-10-26"
           }
         ]
       },
@@ -615,7 +693,8 @@
           {
             "id": 1,
             "duration": "148 минут",
-            "previewImg": "/images/Movies/Episodes/Inception.jpg"
+            "previewImg": "/images/Movies/Episodes/Inception.jpg",
+            "date": "2010-07-08"
           }
         ]
       },
@@ -644,7 +723,8 @@
           {
             "id": 1,
             "duration": "96 минут",
-            "previewImg": "/images/Movies/Episodes/Klaus.jpg"
+            "previewImg": "/images/Movies/Episodes/Klaus.jpg",
+            "date": "2019-11-08"
           }
         ]
       },
@@ -676,122 +756,146 @@
               {
                 "id": 1,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_1.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_1.jpg",
+                "date": "2011-04-06"
               },
               {
                 "id": 2,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_2.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_2.jpg",
+                "date": "2011-04-13"
               },
               {
                 "id": 3,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg",
+                "date": "2011-04-20"
               },
               {
                 "id": 4,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg",
+                "date": "2011-04-27"
               },
               {
                 "id": 5,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg",
+                "date": "2011-05-04"
               },
               {
                 "id": 6,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg",
+                "date": "2011-05-11"
               },
               {
                 "id": 7,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg",
+                "date": "2011-05-18"
               },
               {
                 "id": 8,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg",
+                "date": "2011-05-25"
               },
               {
                 "id": 9,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_9.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_9.jpg",
+                "date": "2011-06-01"
               },
               {
                 "id": 10,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_10.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_10.jpg",
+                "date": "2011-06-08"
               },
               {
                 "id": 11,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg",
+                "date": "2011-06-15"
               },
               {
                 "id": 12,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg",
+                "date": "2011-06-22"
               },
               {
                 "id": 13,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg",
+                "date": "2011-06-29"
               },
               {
                 "id": 14,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg",
+                "date": "2011-07-06"
               },
               {
                 "id": 15,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg",
+                "date": "2011-07-13"
               },
               {
                 "id": 16,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg",
+                "date": "2011-07-20"
               },
               {
                 "id": 17,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg",
+                "date": "2011-07-27"
               },
               {
                 "id": 18,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg",
+                "date": "2011-08-03"
               },
               {
                 "id": 19,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg",
+                "date": "2011-08-10"
               },
               {
                 "id": 20,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg",
+                "date": "2011-08-17"
               },
               {
                 "id": 21,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg",
+                "date": "2011-08-24"
               },
               {
                 "id": 22,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg",
+                "date": "2011-08-31"
               },
               {
                 "id": 23,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_9.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_9.jpg",
+                "date": "2011-09-07"
               },
               {
                 "id": 24,
                 "duration": "25 минуты",
-                "previewImg": "/images/Movies/Episodes/Steins_Gate_10.jpg"
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_10.jpg",
+                "date": "2011-09-14"
               }
             ]
           }
@@ -822,7 +926,8 @@
           {
             "id": 1,
             "duration": "127 минут",
-            "previewImg": "/images/Movies/Episodes/Spider_Man_2.jpg"
+            "previewImg": "/images/Movies/Episodes/Spider_Man_2.jpg",
+            "date": "2004-06-25"
           }
         ]
       },

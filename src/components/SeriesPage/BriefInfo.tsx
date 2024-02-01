@@ -14,6 +14,7 @@ type BriefInfoProps = Pick<
   | "genres"
   | "countries"
   | "age"
+  | "videos"
 >;
 
 export const BriefInfo = ({
@@ -25,6 +26,7 @@ export const BriefInfo = ({
   genres,
   countries,
   age,
+  videos,
 }: BriefInfoProps) => {
   return (
     <div className="relative">
@@ -49,6 +51,18 @@ export const BriefInfo = ({
         )}
         <div className={styles["brief-characteristics"]}>
           <Button background="gray">{rating}</Button>
+          <h6>
+            {/* Takes year of the first episode and year of the last */}
+            {videos?.movie
+              ? videos.movie[0].date.substring(0, 4)
+              : videos?.seasons &&
+                `${videos.seasons[0].episodes[0].date.substring(
+                  0,
+                  4
+                )}-${videos.seasons[videos.seasons.length - 1].episodes[
+                  videos.seasons[videos.seasons.length - 1].episodes.length - 1
+                ].date.substring(0, 4)}`}
+          </h6>
           <div className={styles["chars-section-container"]}>
             {countries.map((country, index) => (
               <h6 key={index}>{country}</h6>

@@ -4,7 +4,7 @@ import { Button } from "@/ui/Button";
 
 type InfoSectionProps = Pick<
   MovieInfoModel,
-  "countries" | "name" | "genres" | "quality" | "audio"
+  "countries" | "name" | "genres" | "quality" | "audio" | "videos"
 >;
 
 export const InfoSection = ({
@@ -13,6 +13,7 @@ export const InfoSection = ({
   genres,
   quality,
   audio,
+  videos,
 }: InfoSectionProps) => {
   return (
     <div className={styles["info-section-container"]}>
@@ -20,7 +21,11 @@ export const InfoSection = ({
       <div className={styles["grid"]}>
         <div className={styles["grid-element"]}>
           <h6>Премьера в мире</h6>
-          <p>дд-мм-гггг</p>
+          <p>
+            {videos?.movie
+              ? videos.movie[0].date
+              : videos?.seasons && videos.seasons[0].episodes[0].date}
+          </p>
         </div>
         <div className={styles["grid-element"]}>
           <h6>Страны</h6>
