@@ -18,5 +18,6 @@
   "age": "13+",
   "rating": 6.5,
   "genres": ["фантастика", "боевик", "приключения"],
+  "audio": ["rus", "eng"],
   "quality": "Full HD"
 }

@@ -5,6 +5,7 @@ import { MovieInfoModel } from "@/types/MovieInfo";
 import { findMovieById } from "@/utils/findMovieById";
 import { BriefInfo } from "@/components/SeriesPage/BriefInfo";
 import { DescriptionSection } from "@/components/SeriesPage/DescriptionSection";
+import { InfoSection } from "@/components/SeriesPage/InfoSection";
 
 export default function SeriesPage({
   params,
@@ -28,6 +29,13 @@ export default function SeriesPage({
       <DescriptionSection
         description={movie.description}
         warnings={movie.warnings}
+      />
+      <InfoSection
+        countries={movie.countries}
+        name={movie.name}
+        genres={movie.genres}
+        quality={movie.quality}
+        audio={movie.audio}
       />
     </PageLayout>
   );

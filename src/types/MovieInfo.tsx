@@ -18,5 +18,6 @@ export type MovieInfoModel = {
   age: string;
   rating: number;
   genres: string[];
+  audio: string[];
   quality: string;
 };

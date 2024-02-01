@@ -1,0 +1,36 @@
+@use "../global/variables.scss";
+
+.info-section-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 20px;
+}
+
+.grid-element {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  * {
+    width: fit-content;
+  }
+
+  h6 {
+    font-size: large;
+    font-weight: 300;
+    color: variables.$color-text-secondary;
+  }
+
+  .item-row {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    text-transform: capitalize;
+  }
+}
