@@ -10,6 +10,15 @@
         "short": "Проиграв пари, недотрога Эбби должна месяц прожить с плохим парнем. Ромком по бестселлеру Джейми Макгуайр.",
         "full": "Эбби — загадочная и недоступная первокурсница, желающая сбежать от своего прошлого. Трэвис — бунтарь и чемпион подпольных боёв, который не верит в любовь. Воплощая в себе всё, от чего Эбби стоит держаться подальше, Трэвис предлагает пари: если он выиграет следующий поединок, она проведёт месяц с ним. Однако он и не догадывается, что у них намного больше общего, чем кажется."
       },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "96 минут",
+            "previewImg": "/images/Movies/Episodes/Beautiful_Disaster.jpg"
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Beautiful_Disaster.png",
       "logoUrl": "/images/Movies/Logo/Beautiful_Disaster.png",
       "backgroundImage": "/images/Movies/Backgrounds/Beautiful_Disaster.jpg",
@@ -29,6 +38,15 @@
       "description": {
         "short": "Агент Интерпола успешно выслеживает самого разыскиваемого в мире вора искусства при помощи соперничающего вора. Однако ничто не так, как кажется, поскольку начинается серия двойных предательств.",
         "full": "Более двух тысяч лет назад влюблённый в Клеопатру древнеримский генерал Марк Антоний подарил ей три яйца, украшенные золотом и драгоценными камнями. С тех пор эти вещицы окружали легенды, пока в начале XX века не были обнаружены две из них: теперь одно яйцо выставляется в музее Рима, другое содержится в частной коллекции, а местонахождение третьего неизвестно. Когда египетский миллиардер объявляет большую награду каждому, кто доставит три яйца Клеопатры к свадьбе его дочери, агент ФБР Джон Хартли использует это как возможность поймать самого разыскиваемого вора предметов искусства Нолана Бута. Но тот, стащив яйцо из римского музея, уходит от преследования. Вскоре под давлением обстоятельств Буту и Хартли придётся не только объединиться в поисках драгоценных яиц, но и вести хитроумную игру против ещё одного разыскиваемого Интерполом «любителя» предметов старины по прозвищу Ладья."
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "118 минут",
+            "previewImg": "/images/Movies/Episodes/Red_Notice.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Red_Notice.png",
       "logoUrl": "/images/Movies/Logo/Red_Notice.png",
@@ -50,6 +68,145 @@
         "short": "Геральт из Ривии, одинокий охотник на монстров, борется, чтобы найти свое место в мире, где люди часто оказываются злее чудовищ.",
         "full": "Ведьмак Геральт, мутант и убийца чудовищ, на своей верной лошади по кличке Плотва путешествует по Континенту. За тугой мешочек чеканных монет этот мужчина избавит вас от всякой настырной нечисти — хоть от чудищ болотных, оборотней и даже заколдованных принцесс. В сельской глуши местную девушку Йеннифэр, которой сильно не повезло с внешностью, зато посчастливилось иметь способности к магии, отец продаёт колдунье в ученицы. А малолетняя наследница королевства Цинтра по имени Цири вынуждена пуститься в бега, когда их страну захватывает империя Нильфгаард. Судьбы этих троих окажутся тесно связаны, но скоро сказка сказывается, да не скоро дело делается."
       },
+      "videos": {
+        "seasons": [
+          {
+            "id": 1,
+            "episodes": [
+              {
+                "id": 1,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+              },
+              {
+                "id": 2,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+              },
+              {
+                "id": 3,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+              },
+              {
+                "id": 4,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+              },
+              {
+                "id": 5,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+              },
+              {
+                "id": 6,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+              },
+              {
+                "id": 7,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+              },
+              {
+                "id": 8,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "episodes": [
+              {
+                "id": 9,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+              },
+              {
+                "id": 10,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+              },
+              {
+                "id": 11,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+              },
+              {
+                "id": 12,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+              },
+              {
+                "id": 13,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+              },
+              {
+                "id": 14,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+              },
+              {
+                "id": 15,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+              },
+              {
+                "id": 16,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "episodes": [
+              {
+                "id": 17,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+              },
+              {
+                "id": 18,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+              },
+              {
+                "id": 19,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_1.jpg"
+              },
+              {
+                "id": 20,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_2.jpg"
+              },
+              {
+                "id": 21,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_3.jpg"
+              },
+              {
+                "id": 22,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_4.jpg"
+              },
+              {
+                "id": 23,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_5.jpg"
+              },
+              {
+                "id": 24,
+                "duration": "60 минут",
+                "previewImg": "/images/Movies/Episodes/Witcher_6.jpg"
+              }
+            ]
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Witcher.png",
       "logoUrl": "/images/Movies/Logo/Witcher.png",
       "backgroundImage": "/images/Movies/Backgrounds/Witcher.jpg",
@@ -69,6 +226,145 @@
       "description": {
         "short": "После битвы с доктором Эггманом, расколовшей Вселенную, Соник мчится по параллельным мирам, чтобы найти своих друзей и спасти мир.",
         "full": "Соник сталкивается с захватывающим приключением, где судьба странного нового мультивселенного лежит в его руках."
+      },
+      "videos": {
+        "seasons": [
+          {
+            "id": 1,
+            "episodes": [
+              {
+                "id": 1,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+              },
+              {
+                "id": 2,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+              },
+              {
+                "id": 3,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+              },
+              {
+                "id": 4,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+              },
+              {
+                "id": 5,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+              },
+              {
+                "id": 6,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+              },
+              {
+                "id": 7,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+              },
+              {
+                "id": 8,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+              },
+              {
+                "id": 9,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "episodes": [
+              {
+                "id": 10,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+              },
+              {
+                "id": 11,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+              },
+              {
+                "id": 12,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+              },
+              {
+                "id": 13,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+              },
+              {
+                "id": 14,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+              },
+              {
+                "id": 15,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+              },
+              {
+                "id": 16,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+              },
+              {
+                "id": 17,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "episodes": [
+              {
+                "id": 18,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+              },
+              {
+                "id": 19,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_1.jpg"
+              },
+              {
+                "id": 20,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_2.jpg"
+              },
+              {
+                "id": 21,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_3.jpg"
+              },
+              {
+                "id": 22,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_4.jpg"
+              },
+              {
+                "id": 23,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_5.jpg"
+              },
+              {
+                "id": 24,
+                "duration": "22 минуты",
+                "previewImg": "/images/Movies/Episodes/Sonic_Prime_6.jpg"
+              }
+            ]
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Sonic_Prime.png",
       "logoUrl": "/images/Movies/Logo/Sonic_Prime.png",
@@ -93,6 +389,175 @@
       "warnings": {
         "scenesAlcoSmoking": true
       },
+      "videos": {
+        "seasons": [
+          {
+            "id": 1,
+            "episodes": [
+              {
+                "id": 1,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+              },
+              {
+                "id": 2,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+              },
+              {
+                "id": 3,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "episodes": [
+              {
+                "id": 4,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+              },
+              {
+                "id": 5,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+              },
+              {
+                "id": 6,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+              },
+              {
+                "id": 7,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "episodes": [
+              {
+                "id": 8,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+              },
+              {
+                "id": 9,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+              },
+              {
+                "id": 10,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+              },
+              {
+                "id": 11,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+              },
+              {
+                "id": 12,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+              },
+              {
+                "id": 13,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "episodes": [
+              {
+                "id": 14,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+              },
+              {
+                "id": 15,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+              },
+              {
+                "id": 16,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+              },
+              {
+                "id": 17,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+              },
+              {
+                "id": 18,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+              },
+              {
+                "id": 19,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "episodes": [
+              {
+                "id": 20,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+              },
+              {
+                "id": 21,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+              },
+              {
+                "id": 22,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "episodes": [
+              {
+                "id": 23,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_2.jpg"
+              },
+              {
+                "id": 24,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_3.jpg"
+              },
+              {
+                "id": 25,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_4.jpg"
+              },
+              {
+                "id": 26,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_5.jpg"
+              },
+              {
+                "id": 27,
+                "duration": "43 минуты",
+                "previewImg": "/images/Movies/Episodes/Black_Mirror_1.jpg"
+              }
+            ]
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Black_Mirror.png",
       "logoUrl": "/images/Movies/Logo/Black_Mirror.png",
       "backgroundImage": "/images/Movies/Backgrounds/Black_Mirror.jpg",
@@ -112,6 +577,15 @@
       "description": {
         "short": "Когда Земля становится непригодной для жизни в будущем, фермер и бывший пилот НАСА, Джозеф Купер, получает задание управлять космическим кораблем вместе с командой исследователей, чтобы найти новую планету для человечества.",
         "full": "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями."
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "169 минут",
+            "previewImg": "/images/Movies/Episodes/Interstellar.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Interstellar.png",
       "logoUrl": "/images/Movies/Logo/Interstellar.png",
@@ -136,6 +610,15 @@
       "warnings": {
         "scenesAlcoSmoking": true
       },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "148 минут",
+            "previewImg": "/images/Movies/Episodes/Inception.jpg"
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Inception.png",
       "logoUrl": "/images/Movies/Logo/Inception.png",
       "backgroundImage": "/images/Movies/Backgrounds/Inception.jpg",
@@ -155,6 +638,15 @@
       "description": {
         "short": "Простой акт доброты всегда влечет за собой другой, даже в замерзшем, отдаленном месте. Когда новый почтальон Смиренсбурга, Йеспер, подружился с игрушечником Клаусом, их подарки растопили древнюю вражду и принесли с собой сани, полные новогодних традиций.",
         "full": "Владелец почтовой империи, чтобы научить ленивого отпрыска по имени Джеспер уму-разуму, отправляет его на крайний север в город Смиренсбург. Тот должен организовать там почтовое отделение и за год обработать не менее 6000 писем. Прибыв на место, парень оказывается в зоне боевых действий: два семейных клана, так уж исторически сложилось, питают взаимную ненависть и свято чтут многовековую традицию при любой возможности мутузить друг друга и делать пакости. Разумеется, в такой обстановке не до писем, и почтовое отделение давно превратилось в курятник. Уже практически отчаявшись, Джеспер посещает лесного отшельника по имени Клаус, и их знакомство положит начало удивительным событиям."
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "96 минут",
+            "previewImg": "/images/Movies/Episodes/Klaus.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Klaus.png",
       "logoUrl": "/images/Movies/Logo/Klaus.png",
@@ -176,6 +668,135 @@
         "short": "После открытия временных линий студент университета и его коллеги вынуждены использовать свои знания, чтобы остановить зловещую организацию и их дьявольские планы.",
         "full": "Акихабара – интереснейшее место, где обитают самые разные люди – от слегка сдвинутых по фазе до больных на всю голову. Именно такая компания собралась в Лаборатории проблем времени, что над лавкой старых телевизоров. Возглавляет её 18-летний Ринтаро Окабэ, сумасшедший ученый и борец с мировым заговором. В серьезном деле нельзя без хакера – вот и он, Итару Хасида, конечно же, толстяк и истинный отаку. Добрая фея лаборатории – Маюри Сиина, подруга детства Ринтаро, официантка мейд-кафе и фанатка косплея, а научную мощь бригады резко повысила юный гений Курису Макисэ, истосковавшаяся по интеллектуальным приключениям и простому человеческому теплу. Компании удалось построить машину времени из микроволновки и барахла с ближайшей распродажи. Великие открытия делают любители, а профессионалы строят «Титаники». Вот только потом началось такое, что парадокс дедушки нервно удалился курить в сторонку, а главный герой трижды проклял тот день, когда сдуру открыл врата Штейна. Он был готов рисковать своей жизнью, но не чужими. Впрочем, сделанного, как известно, не воротишь. Или… все же можно?"
       },
+      "videos": {
+        "seasons": [
+          {
+            "id": 1,
+            "episodes": [
+              {
+                "id": 1,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_1.jpg"
+              },
+              {
+                "id": 2,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_2.jpg"
+              },
+              {
+                "id": 3,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg"
+              },
+              {
+                "id": 4,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg"
+              },
+              {
+                "id": 5,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg"
+              },
+              {
+                "id": 6,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg"
+              },
+              {
+                "id": 7,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg"
+              },
+              {
+                "id": 8,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg"
+              },
+              {
+                "id": 9,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_9.jpg"
+              },
+              {
+                "id": 10,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_10.jpg"
+              },
+              {
+                "id": 11,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg"
+              },
+              {
+                "id": 12,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg"
+              },
+              {
+                "id": 13,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg"
+              },
+              {
+                "id": 14,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg"
+              },
+              {
+                "id": 15,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg"
+              },
+              {
+                "id": 16,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg"
+              },
+              {
+                "id": 17,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_3.jpg"
+              },
+              {
+                "id": 18,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_4.jpg"
+              },
+              {
+                "id": 19,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_5.jpg"
+              },
+              {
+                "id": 20,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_6.jpg"
+              },
+              {
+                "id": 21,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_7.jpg"
+              },
+              {
+                "id": 22,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_8.jpg"
+              },
+              {
+                "id": 23,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_9.jpg"
+              },
+              {
+                "id": 24,
+                "duration": "25 минуты",
+                "previewImg": "/images/Movies/Episodes/Steins_Gate_10.jpg"
+              }
+            ]
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Steins_Gate.png",
       "logoUrl": "/images/Movies/Logo/Steins_Gate.png",
       "backgroundImage": "/images/Movies/Backgrounds/Steins_Gate.jpg",
@@ -195,6 +816,15 @@
       "description": {
         "short": "Питер Паркер сталкивается с трудностями в своей личной жизни, которая идет ко дну, в то время как он сражается с бывшим гениальным ученым по имени Отто Октавиус.",
         "full": "Тихоня Питер Паркер балансирует на грани двух своих жизней: супергероя Человека-паука и обычного студента колледжа. Его отношения со всеми, кто ему дорог, в опасности или зашли в тупик. А жизнь приготовила ему новое испытание. Он должен использовать все свои суперспособности, чтобы одолеть жестокого безумца доктора Отто Октавиуса."
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "127 минут",
+            "previewImg": "/images/Movies/Episodes/Spider_Man_2.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Spider_Man_2.png",
       "logoUrl": "/images/Movies/Logo/Spider_Man_2.png",

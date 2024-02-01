@@ -1,3 +1,14 @@
+export type EpisodeModel = {
+  id: number;
+  duration: string;
+  previewImg: string;
+};
+
+type SeasonModel = {
+  id: number;
+  episodes: EpisodeModel[];
+};
+
 export type MovieInfoModel = {
   id: number;
   name: {
@@ -11,6 +22,10 @@ export type MovieInfoModel = {
   };
   warnings?: {
     scenesAlcoSmoking?: boolean;
+  };
+  videos?: {
+    movie?: EpisodeModel[];
+    seasons?: SeasonModel[];
   };
   logoUrl: string;
   backgroundImage: string;

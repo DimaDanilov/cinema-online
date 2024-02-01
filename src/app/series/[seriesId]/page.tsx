@@ -7,6 +7,7 @@ import { BriefInfo } from "@/components/SeriesPage/BriefInfo";
 import { DescriptionSection } from "@/components/SeriesPage/DescriptionSection";
 import { InfoSection } from "@/components/SeriesPage/InfoSection";
 import { SimilarCarousel } from "@/components/SeriesPage/SimilarCarousel";
+import { VideoSection } from "@/components/SeriesPage/VideoSection";
 
 export default function SeriesPage({
   params,
@@ -27,6 +28,7 @@ export default function SeriesPage({
         countries={movie.countries}
         age={movie.age}
       />
+      <VideoSection videos={movie.videos} />
       <DescriptionSection
         description={movie.description}
         warnings={movie.warnings}

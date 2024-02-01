@@ -11,6 +11,15 @@
   "warnings": {
     "scenesAlcoSmoking": true
   },
+  "videos": {
+    "movie": [
+      {
+        "id": 1,
+        "duration": "154 минуты",
+        "previewImg": "/images/Movies/Episodes/Indiana_Jones_and_the_Dial_of_Destiny.jpg"
+      }
+    ]
+  },
   "posterUrl": "/images/Movies/Posters/Indiana_Jones_and_the_Dial_of_Destiny.png",
   "logoUrl": "/images/Movies/Logo/Indiana_Jones_and_the_Dial_of_Destiny.png",
   "backgroundImage": "/images/Movies/Backgrounds/Indiana_Jones_and_the_Dial_of_Destiny.png",

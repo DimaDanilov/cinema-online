@@ -2,6 +2,7 @@ import styles from "@/styles/components/MainPremiere.module.scss";
 import mainPremiereData from "@/data/mainPremiere.json";
 import { MovieInfoModel } from "@/types/MovieInfo";
 import { Button } from "@/ui/Button";
+import Link from "next/link";
 
 const mainPremiere: MovieInfoModel = mainPremiereData;
 
@@ -25,8 +26,12 @@ export const MainPremiere = () => {
         <img src={mainPremiere.logoUrl} alt="" />
         <p>{mainPremiere.description.short}</p>
         <div className={styles["button-container"]}>
-          <Button background="cyber">Смотреть</Button>
-          <Button background="gray">О фильме</Button>
+          <Link href={`/series/${mainPremiere.id}`}>
+            <Button background="cyber">Смотреть</Button>
+          </Link>
+          <Link href={`/series/${mainPremiere.id}`}>
+            <Button background="gray">О фильме</Button>
+          </Link>
         </div>
       </div>
     </div>

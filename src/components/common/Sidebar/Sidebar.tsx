@@ -6,14 +6,19 @@ import { SearchIcon } from "@/assets/icons/SearchIcon";
 import { TvIcon } from "@/assets/icons/TvIcon";
 import { ProfileIcon } from "@/assets/icons/ProfileIcon";
 import { MainLogo } from "@/assets/icons/MainLogo";
+import Link from "next/link";
 
 export const Sidebar = () => {
   return (
     <nav className={styles["navigation-sidebar"]}>
-      <MainLogo className={styles["main-icon"]} />
+      <Link href="/">
+        <MainLogo className={styles["main-icon"]} />
+      </Link>
       <div className={styles["icons-container"]}>
         <SearchIcon className={styles["sidebar-icon"]} />
-        <HomeIcon className={styles["sidebar-icon"]} />
+        <Link href="/">
+          <HomeIcon className={styles["sidebar-icon"]} />
+        </Link>
         <MovieIcon className={styles["sidebar-icon"]} />
         <TvIcon className={styles["sidebar-icon"]} />
         <HeartIcon className={styles["sidebar-icon"]} />

@@ -6,6 +6,15 @@
         "rus": "Синий Жук",
         "original": "Blue Beetle"
       },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "127 минут",
+            "previewImg": "/images/Movies/Episodes/Blue_Beetle.jpg"
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Blue_Beetle.png",
       "description": {
         "short": "Мексиканский подросток Хайме Рейес получает инопланетный костюм, который даёт ему суперсилы.",
@@ -30,6 +39,15 @@
         "short": "Главный тренер New Orleans Saints Шон Пейтон потерял работу из-за скандала. После этого он берёт шефство над футбольной командой своего сына-шестиклассника.",
         "full": "Два года после победы в Супербоуле, скандала и дисквалификации, главный тренер 'Новых Орлеанских Сэйнтс' Шон Пейтон возвращается в свой родной город и пытается восстановить связь со своим 12-летним сыном, тренируя его футбольную команду 'Поп Уорнер'. Пейтон был дисквалифицирован в 2012 году за свою роль в скандале 'Баунтигейт', когда якобы платились награды игрокам за попытки травмировать игроков противоположной команды."
       },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "95 минут",
+            "previewImg": "/images/Movies/Episodes/Home_Team.jpg"
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Home_Team.png",
       "logoUrl": "/images/Movies/Logo/Home_Team.png",
       "backgroundImage": "/images/Movies/Backgrounds/Home_Team.jpg",
@@ -52,6 +70,15 @@
       },
       "warnings": {
         "scenesAlcoSmoking": true
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "111 минут",
+            "previewImg": "/images/Movies/Episodes/Salute_Seven.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Salute_Seven.png",
       "logoUrl": "/images/Movies/Logo/Salute_Seven.png",
@@ -76,6 +103,15 @@
       "warnings": {
         "scenesAlcoSmoking": true
       },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "141 минута",
+            "previewImg": "/images/Movies/Episodes/Catch_Me_If_You_Can.jpg"
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Catch_Me_If_You_Can.png",
       "logoUrl": "/images/Movies/Logo/Catch_Me_If_You_Can.png",
       "backgroundImage": "/images/Movies/Backgrounds/Catch_Me_If_You_Can.jpg",
@@ -98,6 +134,145 @@
       },
       "warnings": {
         "scenesAlcoSmoking": true
+      },
+      "videos": {
+        "seasons": [
+          {
+            "id": 1,
+            "episodes": [
+              {
+                "id": 1,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_1.jpg"
+              },
+              {
+                "id": 2,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_2.jpg"
+              },
+              {
+                "id": 3,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_3.jpg"
+              },
+              {
+                "id": 4,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_4.jpg"
+              },
+              {
+                "id": 5,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_5.jpg"
+              },
+              {
+                "id": 6,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_1.jpg"
+              },
+              {
+                "id": 7,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_2.jpg"
+              },
+              {
+                "id": 8,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_3.jpg"
+              },
+              {
+                "id": 9,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_4.jpg"
+              },
+              {
+                "id": 10,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_5.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "episodes": [
+              {
+                "id": 11,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_4.jpg"
+              },
+              {
+                "id": 12,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_5.jpg"
+              },
+              {
+                "id": 13,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_1.jpg"
+              },
+              {
+                "id": 14,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_2.jpg"
+              },
+              {
+                "id": 15,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_3.jpg"
+              },
+              {
+                "id": 16,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_4.jpg"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "episodes": [
+              {
+                "id": 17,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_3.jpg"
+              },
+              {
+                "id": 18,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_4.jpg"
+              },
+              {
+                "id": 19,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_5.jpg"
+              },
+              {
+                "id": 20,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_1.jpg"
+              },
+              {
+                "id": 21,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_2.jpg"
+              },
+              {
+                "id": 22,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_3.jpg"
+              },
+              {
+                "id": 23,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_4.jpg"
+              },
+              {
+                "id": 24,
+                "duration": "48 минут",
+                "previewImg": "/images/Movies/Episodes/Mediator_5.jpg"
+              }
+            ]
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Mediator.png",
       "logoUrl": "",
@@ -122,6 +297,15 @@
       "warnings": {
         "scenesAlcoSmoking": true
       },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "106 минут",
+            "previewImg": "/images/Movies/Episodes/Ivan_Change_Everything.jpg"
+          }
+        ]
+      },
       "posterUrl": "/images/Movies/Posters/Ivan_Change_Everything.png",
       "logoUrl": "",
       "backgroundImage": "/images/Movies/Backgrounds/Ivan_Change_Everything.jpg",
@@ -141,6 +325,15 @@
       "description": {
         "short": "Чудо-рыба помогает непутевому Емеле завоевать сердце царской дочери. Сказочный хит с Никитой Кологривым.",
         "full": "Если ты идешь на рыбалку — будь готов к тому, что вытянешь рыбу своей мечты, волшебную Щуку, которая может исполнить три любых твоих желания. Только Емеля спустил два желания на ветер, а третье решил приберечь. Поэтому, чтобы добиться руки царской дочери Анфисы, придется ему действовать без волшебной силы, самому. А помогать ему будет Щука, которая без своей шкурки предстает обычной девушкой Василисой. Вместе им предстоит найти скатерть-самобранку, встретиться с Котом Баюном, отправиться в мрачное царство Кощея и понять, что настоящее чудо — это быть с тем, кого любишь."
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "115 минут",
+            "previewImg": "/images/Movies/Episodes/Pike_Wish.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Pike_Wish.png",
       "logoUrl": "",
@@ -164,6 +357,15 @@
       },
       "warnings": {
         "scenesAlcoSmoking": true
+      },
+      "videos": {
+        "movie": [
+          {
+            "id": 1,
+            "duration": "131 минута",
+            "previewImg": "/images/Movies/Episodes/Sound_Of_Freedom.jpg"
+          }
+        ]
       },
       "posterUrl": "/images/Movies/Posters/Sound_Of_Freedom.png",
       "logoUrl": "/images/Movies/Logo/Sound_Of_Freedom.png",
