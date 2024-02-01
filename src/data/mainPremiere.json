@@ -1,5 +1,8 @@
 {
-  "movieLogoUrl": "/images/MainPremiere/Indiana_Johns_Logo.png",
-  "backgroundImage": "/images/MainPremiere/Indiana_Johns_Background.png",
-  "description": "Неувядающий авантюрист и пытливый археолог-исследователь по‑прежнему в седле."
+  "id": 19,
+  "name": "Индиана Джонс и Колесо Судьбы",
+  "posterUrl": "/images/Movies/Posters/Indiana_Jones_and_the_Dial_of_Destiny.png",
+  "description": "Неувядающий авантюрист и пытливый археолог-исследователь по‑прежнему в седле.",
+  "movieLogoUrl": "/images/Movies/Logo/Indiana_Jones_and_the_Dial_of_Destiny.png",
+  "backgroundImage": "/images/Movies/Backgrounds/Indiana_Jones_and_the_Dial_of_Destiny.png"
 }

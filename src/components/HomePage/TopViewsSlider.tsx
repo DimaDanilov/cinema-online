@@ -28,7 +28,7 @@ export const TopViewsSlider = () => {
                 className="absolute top-viewers-number"
               >{`${++index}`}</TextCyberStyle>
               <Link href={`/series/${movie.id}`} className="top-viewers-link">
-                <img src={movie.imgUrl} alt="" />
+                <img src={movie.posterUrl} alt="" />
               </Link>
             </div>
           </SwiperSlide>

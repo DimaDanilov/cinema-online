@@ -1,9 +1,9 @@
 import styles from "@/styles/components/MainPremiere.module.scss";
 import mainPremiereData from "@/data/mainPremiere.json";
-import { MainPremiereModel } from "@/types/MainPremiere";
+import { MovieInfoModel } from "@/types/MovieInfo";
 import { Button } from "@/ui/Button";
 
-const mainPremiere: MainPremiereModel = mainPremiereData;
+const mainPremiere: MovieInfoModel = mainPremiereData;
 
 export const MainPremiere = () => {
   return (
