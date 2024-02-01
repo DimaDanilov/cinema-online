@@ -12,9 +12,9 @@ import Link from "next/link";
 import { TextCyberStyle } from "@/ui/TextCyberStyle";
 const topViewMovies: MovieInfoModel[] = topViewMoviesData.data;
 
-export const TopViewsSlider = () => {
+export const TopViewsCarousel = () => {
   return (
-    <div className="slider-container">
+    <div className="carousel-container">
       <h2>
         <TextCyberStyle fontSize="middle">ТОП-10</TextCyberStyle> просмотров за
         неделю

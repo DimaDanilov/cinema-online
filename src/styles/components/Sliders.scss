@@ -25,19 +25,19 @@
   border-radius: 15px;
 }
 
-.slider-container {
+.carousel-container {
   display: flex;
   flex-direction: column;
   gap: 30px;
 }
 
-.newMovies-slider-element {
+.newMovies-carousel-element {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
 
-.newMovies-slider-element-title {
+.newMovies-carousel-element-title {
   text-align: start;
   text-decoration: none;
   color: variables.$color-text-primary;

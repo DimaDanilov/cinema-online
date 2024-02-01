@@ -6,6 +6,7 @@ import { findMovieById } from "@/utils/findMovieById";
 import { BriefInfo } from "@/components/SeriesPage/BriefInfo";
 import { DescriptionSection } from "@/components/SeriesPage/DescriptionSection";
 import { InfoSection } from "@/components/SeriesPage/InfoSection";
+import { SimilarCarousel } from "@/components/SeriesPage/SimilarCarousel";
 
 export default function SeriesPage({
   params,
@@ -30,6 +31,7 @@ export default function SeriesPage({
         description={movie.description}
         warnings={movie.warnings}
       />
+      <SimilarCarousel id={movie.id} />
       <InfoSection
         countries={movie.countries}
         name={movie.name}
