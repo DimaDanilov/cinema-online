@@ -1,5 +1,5 @@
-import styles from "@/styles/ui/TextCyberStyle.module.scss";
-import { AnyProps } from "@/types/AnyProps";
+import styles from "styles/ui/TextCyberStyle.module.scss";
+import { AnyProps } from "types/AnyProps";
 
 interface TextCyberStyleProps extends AnyProps {
   children: string;

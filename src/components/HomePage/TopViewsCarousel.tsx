@@ -4,12 +4,12 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
-import "@/styles/components/Sliders.scss";
+import "styles/components/Sliders.scss";
 
-import topViewMoviesData from "@/data/topViewMovies.json";
-import { MovieInfoModel } from "@/types/MovieInfo";
+import topViewMoviesData from "data/topViewMovies.json";
+import { MovieInfoModel } from "types/MovieInfo";
 import Link from "next/link";
-import { TextCyberStyle } from "@/ui/TextCyberStyle";
+import { TextCyberStyle } from "ui/TextCyberStyle";
 const topViewMovies: MovieInfoModel[] = topViewMoviesData.data;
 
 export const TopViewsCarousel = () => {

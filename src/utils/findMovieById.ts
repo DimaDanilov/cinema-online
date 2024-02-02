@@ -1,8 +1,8 @@
-import newMoviesData from "@/data/newMovies.json";
-import topViewMoviesData from "@/data/topViewMovies.json";
-import mainPremiereData from "@/data/mainPremiere.json";
+import newMoviesData from "data/newMovies.json";
+import topViewMoviesData from "data/topViewMovies.json";
+import mainPremiereData from "data/mainPremiere.json";
 
-import { MovieInfoModel } from "@/types/MovieInfo";
+import { MovieInfoModel } from "types/MovieInfo";
 
 export const findMovieById = (id: number): MovieInfoModel => {
   const movieDataArray = [

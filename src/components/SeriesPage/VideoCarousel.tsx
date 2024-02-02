@@ -1,8 +1,8 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
-import "@/styles/components/Sliders.scss";
-import { EpisodeModel } from "@/types/MovieInfo";
+import "styles/components/Sliders.scss";
+import { EpisodeModel } from "types/MovieInfo";
 
 type VideoCarouselProps = {
   episodes: EpisodeModel[];

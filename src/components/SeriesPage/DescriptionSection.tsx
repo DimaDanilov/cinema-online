@@ -1,7 +1,7 @@
-import styles from "@/styles/components/DescriptionSection.module.scss";
-import { WarningIcon } from "@/assets/icons/WarningIcon";
-import { MovieInfoModel } from "@/types/MovieInfo";
-import { warningsMessages } from "@/types/Warnings";
+import styles from "styles/components/DescriptionSection.module.scss";
+import { WarningIcon } from "assets/icons/WarningIcon";
+import { MovieInfoModel } from "types/MovieInfo";
+import { warningsMessages } from "types/Warnings";
 
 type DescriptionSectionProps = Pick<MovieInfoModel, "description" | "warnings">;
 

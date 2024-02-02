@@ -4,10 +4,10 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
-import "@/styles/components/Sliders.scss";
+import "styles/components/Sliders.scss";
 
-import newMoviesData from "@/data/newMovies.json";
-import { MovieInfoModel } from "@/types/MovieInfo";
+import newMoviesData from "data/newMovies.json";
+import { MovieInfoModel } from "types/MovieInfo";
 import Link from "next/link";
 const newMovies: MovieInfoModel[] = newMoviesData.data;
 

@@ -1,13 +1,13 @@
-import { PageLayout } from "@/layouts/PageLayout/PageLayout";
+import { PageLayout } from "layouts/PageLayout/PageLayout";
 import styles from "./page.module.scss";
 
-import { MovieInfoModel } from "@/types/MovieInfo";
-import { findMovieById } from "@/utils/findMovieById";
-import { BriefInfo } from "@/components/SeriesPage/BriefInfo";
-import { DescriptionSection } from "@/components/SeriesPage/DescriptionSection";
-import { InfoSection } from "@/components/SeriesPage/InfoSection";
-import { SimilarCarousel } from "@/components/SeriesPage/SimilarCarousel";
-import { VideoSection } from "@/components/SeriesPage/VideoSection";
+import { MovieInfoModel } from "types/MovieInfo";
+import { findMovieById } from "utils/findMovieById";
+import { BriefInfo } from "components/SeriesPage/BriefInfo";
+import { DescriptionSection } from "components/SeriesPage/DescriptionSection";
+import { InfoSection } from "components/SeriesPage/InfoSection";
+import { SimilarCarousel } from "components/SeriesPage/SimilarCarousel";
+import { VideoSection } from "components/SeriesPage/VideoSection";
 
 export default function SeriesPage({
   params,

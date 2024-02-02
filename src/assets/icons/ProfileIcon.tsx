@@ -1,4 +1,4 @@
-import { AnyProps } from "@/types/AnyProps";
+import { AnyProps } from "types/AnyProps";
 
 export const ProfileIcon = (props: AnyProps) => (
   <svg

@@ -1,6 +1,6 @@
-import styles from "@/styles/components/infoSection.module.scss";
-import { MovieInfoModel } from "@/types/MovieInfo";
-import { Button } from "@/ui/Button";
+import styles from "styles/components/infoSection.module.scss";
+import { MovieInfoModel } from "types/MovieInfo";
+import { Button } from "ui/Button";
 
 type InfoSectionProps = Pick<
   MovieInfoModel,

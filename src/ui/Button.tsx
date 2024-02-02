@@ -1,7 +1,7 @@
 "use client";
 
-import styles from "@/styles/ui/Button.module.scss";
-import { AnyProps } from "@/types/AnyProps";
+import styles from "styles/ui/Button.module.scss";
+import { AnyProps } from "types/AnyProps";
 import { ReactNode } from "react";
 
 interface ButtonProps extends AnyProps {

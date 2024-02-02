@@ -1,4 +1,4 @@
-import { AnyProps } from "@/types/AnyProps";
+import { AnyProps } from "types/AnyProps";
 
 export const WarningIcon = (props: AnyProps) => (
   <svg

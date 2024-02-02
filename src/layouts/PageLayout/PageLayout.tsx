@@ -1,5 +1,5 @@
-import styles from "@/styles/components/PageLayout.module.scss";
-import { ChildrenProps } from "@/types/ChildrenProps";
+import styles from "styles/components/PageLayout.module.scss";
+import { ChildrenProps } from "types/ChildrenProps";
 
 export function PageLayout({ children }: ChildrenProps) {
   return <div className={styles.layoutContainer}>{children}</div>;
