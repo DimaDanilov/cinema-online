@@ -24,21 +24,21 @@ export const VideoSection = ({ videos }: VideoSection) => {
   }, []);
 
   return (
-    <div className={styles["video-section-container"]}>
-      <div className={styles["title-container"]}>
+    <div className={styles.videoSectionContainer}>
+      <div className={styles.titleContainer}>
         <h2>
           {seriesType === "movie"
             ? "Фильм"
             : seriesType === "series" && "Сезоны"}
         </h2>
-        <div className={styles["seasons-container"]}>
+        <div className={styles.seasonsContainer}>
           {seriesType === "series" &&
             videos?.seasons?.map((season) => (
               <span
                 onClick={() => onSeasonChange(season.id)}
                 className={[
-                  styles["season"],
-                  currentSeason === season.id ? styles["active"] : "",
+                  styles.season,
+                  currentSeason === season.id ? styles.active : "",
                 ].join(" ")}
               >
                 {season.id}

@@ -1,6 +1,6 @@
 @use "ImageBackgroundVignette.module.scss";
 
-.premiere-container {
+.premiereContainer {
   width: 50%;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,7 @@
   }
 }
 
-.button-container {
+.buttonContainer {
   display: flex;
   flex-direction: row;
   gap: 25px;

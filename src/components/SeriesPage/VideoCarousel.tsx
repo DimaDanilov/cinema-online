@@ -13,9 +13,9 @@ export const VideoCarousel = ({ episodes }: VideoCarouselProps) => {
     <Swiper slidesPerView={"auto"} spaceBetween={50}>
       {episodes.map((episode) => (
         <SwiperSlide key={episode.id}>
-          <div className="episodes-carousel-element">
+          <div className="episodesCarouselElement">
             <img src={episode.previewImg} alt="" />
-            <div className="episode-info-container">
+            <div className="episodeInfoContainer">
               <h4>{episode.id} серия</h4>
               <h4 className="duration">{episode.duration}</h4>
             </div>

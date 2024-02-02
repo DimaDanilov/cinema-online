@@ -14,7 +14,7 @@ const topViewMovies: MovieInfoModel[] = topViewMoviesData.data;
 
 export const TopViewsCarousel = () => {
   return (
-    <div className="carousel-container">
+    <div className="carouselContainer">
       <h2>
         <TextCyberStyle fontSize="middle">ТОП-10</TextCyberStyle> просмотров за
         неделю
@@ -25,9 +25,9 @@ export const TopViewsCarousel = () => {
             <div className="relative">
               <TextCyberStyle
                 fontSize="big"
-                className="absolute top-viewers-number"
+                className="absolute topViewersNumber"
               >{`${++index}`}</TextCyberStyle>
-              <Link href={`/series/${movie.id}`} className="top-viewers-link">
+              <Link href={`/series/${movie.id}`} className="topViewersLink">
                 <img src={movie.posterUrl} alt="" />
               </Link>
             </div>

@@ -1,6 +1,6 @@
 @use "../global/variables.scss";
 
-.navigation-sidebar {
+.navigationSidebar {
   position: fixed;
   display: flex;
   flex-direction: column;
@@ -10,14 +10,14 @@
   width: 120px;
   z-index: 99999;
 }
-.icons-container {
+.iconsContainer {
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
-.main-icon {
+.mainIcon {
   color: variables.$color-text-primary;
 }
-.sidebar-icon {
+.sidebarIcon {
   color: variables.$color-text-secondary;
 }

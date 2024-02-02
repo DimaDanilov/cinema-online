@@ -10,19 +10,19 @@ import Link from "next/link";
 
 export const Sidebar = () => {
   return (
-    <nav className={styles["navigation-sidebar"]}>
+    <nav className={styles.navigationSidebar}>
       <Link href="/">
-        <MainLogo className={styles["main-icon"]} />
+        <MainLogo className={styles.mainIcon} />
       </Link>
-      <div className={styles["icons-container"]}>
-        <SearchIcon className={styles["sidebar-icon"]} />
+      <div className={styles.iconsContainer}>
+        <SearchIcon className={styles.sidebarIcon} />
         <Link href="/">
-          <HomeIcon className={styles["sidebar-icon"]} />
+          <HomeIcon className={styles.sidebarIcon} />
         </Link>
-        <MovieIcon className={styles["sidebar-icon"]} />
-        <TvIcon className={styles["sidebar-icon"]} />
-        <HeartIcon className={styles["sidebar-icon"]} />
-        <ProfileIcon className={styles["sidebar-icon"]} />
+        <MovieIcon className={styles.sidebarIcon} />
+        <TvIcon className={styles.sidebarIcon} />
+        <HeartIcon className={styles.sidebarIcon} />
+        <ProfileIcon className={styles.sidebarIcon} />
       </div>
     </nav>
   );

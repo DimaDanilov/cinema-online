@@ -15,7 +15,7 @@ export const TextCyberStyle = ({
 }: TextCyberStyleProps) => {
   return (
     <span
-      className={[styles[`cyber-text`], styles[fontSize], className].join(" ")}
+      className={[styles.cyberText, styles[fontSize], className].join(" ")}
       {...props}
     >
       {children}

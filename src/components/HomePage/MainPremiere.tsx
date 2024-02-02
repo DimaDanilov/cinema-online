@@ -9,23 +9,23 @@ const mainPremiere: MovieInfoModel = mainPremiereData;
 export const MainPremiere = () => {
   return (
     <div className="relative">
-      <div className={["absolute", styles["image-container"]].join(" ")}>
+      <div className={["absolute", styles.imageContainer].join(" ")}>
         <div className="relative">
           <img
             src={mainPremiere.backgroundImage}
             alt=""
-            className={styles["series-background-img"]}
+            className={styles.seriesBackgroundImg}
           />
-          <div className={["absolute", styles["vignette-left"]].join(" ")} />
-          <div className={["absolute", styles["vignette-bottom"]].join(" ")} />
-          <div className={["absolute", styles["vignette-radial"]].join(" ")} />
+          <div className={["absolute", styles.vignetteLeft].join(" ")} />
+          <div className={["absolute", styles.vignetteBottom].join(" ")} />
+          <div className={["absolute", styles.vignetteRadial].join(" ")} />
         </div>
       </div>
 
-      <div className={styles["premiere-container"]}>
+      <div className={styles.premiereContainer}>
         <img src={mainPremiere.logoUrl} alt="" />
         <p>{mainPremiere.description.short}</p>
-        <div className={styles["button-container"]}>
+        <div className={styles.buttonContainer}>
           <Link href={`/series/${mainPremiere.id}`}>
             <Button background="cyber">Смотреть</Button>
           </Link>

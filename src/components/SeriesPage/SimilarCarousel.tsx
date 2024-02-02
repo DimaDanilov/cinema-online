@@ -15,7 +15,7 @@ type SimilarCarouselProps = Pick<MovieInfoModel, "id">;
 
 export const SimilarCarousel = ({ id }: SimilarCarouselProps) => {
   return (
-    <div className="carousel-container">
+    <div className="carouselContainer">
       <h2>Похожее</h2>
       <Swiper slidesPerView={"auto"} spaceBetween={30}>
         {newMovies

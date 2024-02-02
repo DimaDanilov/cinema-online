@@ -13,17 +13,17 @@ const newMovies: MovieInfoModel[] = newMoviesData.data;
 
 export const NewMoviesCarousel = () => {
   return (
-    <div className="carousel-container">
+    <div className="carouselContainer">
       <h2>Новинки</h2>
       <Swiper slidesPerView={"auto"} spaceBetween={30} loop={true}>
         {newMovies.map((movie) => (
           <SwiperSlide key={movie.id}>
             <Link
               href={`/series/${movie.id}`}
-              className="newMovies-carousel-element"
+              className="newMoviesCarouselElement"
             >
               <img src={movie.posterUrl} alt="" />
-              <h3 className="newMovies-carousel-element-title">
+              <h3 className="newMoviesCarouselElementTitle">
                 {movie.name.rus}
               </h3>
             </Link>

@@ -1,6 +1,6 @@
 @use "../global/variables.scss";
 
-.info-section-container {
+.infoSectionContainer {
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -12,7 +12,7 @@
   row-gap: 20px;
 }
 
-.grid-element {
+.gridElement {
   display: flex;
   flex-direction: column;
   gap: 15px;
@@ -27,7 +27,7 @@
     color: variables.$color-text-secondary;
   }
 
-  .item-row {
+  .itemRow {
     display: flex;
     flex-direction: row;
     gap: 5px;

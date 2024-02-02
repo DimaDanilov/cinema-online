@@ -25,19 +25,19 @@
   border-radius: 15px;
 }
 
-.carousel-container {
+.carouselContainer {
   display: flex;
   flex-direction: column;
   gap: 30px;
 }
 
-.newMovies-carousel-element {
+.newMoviesCarouselElement {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
 
-.episodes-carousel-element {
+.episodesCarouselElement {
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -47,7 +47,7 @@
     width: 360px;
   }
 
-  & .episode-info-container {
+  & .episodeInfoContainer {
     display: flex;
     flex-direction: column;
     align-items: baseline;
@@ -64,7 +64,7 @@
   }
 }
 
-.newMovies-carousel-element-title {
+.newMoviesCarouselElementTitle {
   text-align: start;
   text-decoration: none;
   color: variables.$color-text-primary;
@@ -74,7 +74,7 @@
   white-space: nowrap;
 }
 
-.top-viewers-number {
+.topViewersNumber {
   left: 0;
   bottom: 0;
   transform: translate(-75%); // Movement of the number to left and right
@@ -82,6 +82,6 @@
   vertical-align: bottom;
 }
 
-.top-viewers-link {
+.topViewersLink {
   display: inline-block;
 }

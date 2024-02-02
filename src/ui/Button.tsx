@@ -12,7 +12,7 @@ interface ButtonProps extends AnyProps {
 export const Button = ({ children, background, ...props }: ButtonProps) => {
   return (
     <button
-      className={[styles["button"], styles[background]].join(" ")}
+      className={[styles.button, styles[background]].join(" ")}
       {...props}
     >
       {children}

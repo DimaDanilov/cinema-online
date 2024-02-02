@@ -30,26 +30,26 @@ export const BriefInfo = ({
 }: BriefInfoProps) => {
   return (
     <div className="relative">
-      <div className={["absolute", styles["image-container"]].join(" ")}>
+      <div className={["absolute", styles.imageContainer].join(" ")}>
         <div className="relative">
           <img
             src={backgroundImage}
             alt=""
-            className={styles["series-background-img"]}
+            className={styles.seriesBackgroundImg}
           />
-          <div className={["absolute", styles["vignette-left"]].join(" ")} />
-          <div className={["absolute", styles["vignette-bottom"]].join(" ")} />
-          <div className={["absolute", styles["vignette-radial"]].join(" ")} />
+          <div className={["absolute", styles.vignetteLeft].join(" ")} />
+          <div className={["absolute", styles.vignetteBottom].join(" ")} />
+          <div className={["absolute", styles.vignetteRadial].join(" ")} />
         </div>
       </div>
 
-      <div className={styles["block-container"]}>
+      <div className={styles.blockContainer}>
         {logoUrl ? (
-          <img src={logoUrl} alt={name.rus} className={styles["img-logo"]} />
+          <img src={logoUrl} alt={name.rus} className={styles.imgLogo} />
         ) : (
-          <h2 className={styles["img-replacement"]}>{name.rus}</h2>
+          <h2 className={styles.imgReplacement}>{name.rus}</h2>
         )}
-        <div className={styles["brief-characteristics"]}>
+        <div className={styles.briefCharacteristics}>
           <Button background="gray">{rating}</Button>
           <h6>
             {/* Takes year of the first episode and year of the last */}
@@ -63,12 +63,12 @@ export const BriefInfo = ({
                   videos.seasons[videos.seasons.length - 1].episodes.length - 1
                 ].date.substring(0, 4)}`}
           </h6>
-          <div className={styles["chars-section-container"]}>
+          <div className={styles.charsSectionContainer}>
             {countries.map((country, index) => (
               <h6 key={index}>{country}</h6>
             ))}
           </div>
-          <div className={styles["chars-section-container"]}>
+          <div className={styles.charsSectionContainer}>
             {genres.map((genre, index) => (
               <h6 key={index}>{genre}</h6>
             ))}
@@ -76,7 +76,7 @@ export const BriefInfo = ({
           <h6>{age}</h6>
         </div>
         <p>{description.short}</p>
-        <div className={styles["button-container"]}>
+        <div className={styles.buttonContainer}>
           <Button background="cyber">Смотреть</Button>
           <Button background="gray">Трейлер</Button>
           <Button background="gray">

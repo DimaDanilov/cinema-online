@@ -1,6 +1,6 @@
 @use "../global/variables.scss";
 
-.image-container {
+.imageContainer {
   z-index: -1;
   right: 0;
   top: 0;
@@ -8,7 +8,7 @@
   min-width: 750px;
 }
 
-.vignette-left {
+.vignetteLeft {
   top: 0;
   left: 0;
   background: linear-gradient(
@@ -20,7 +20,7 @@
   width: 100%;
 }
 
-.vignette-bottom {
+.vignetteBottom {
   top: 0;
   left: 0;
   background: linear-gradient(
@@ -32,7 +32,7 @@
   width: 100%;
 }
 
-.vignette-radial {
+.vignetteRadial {
   top: 0;
   left: 0;
   background: radial-gradient(
@@ -44,6 +44,6 @@
   width: 100%;
 }
 
-.series-background-img {
+.seriesBackgroundImg {
   width: 100%;
 }

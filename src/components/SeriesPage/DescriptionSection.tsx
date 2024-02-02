@@ -10,13 +10,13 @@ export const DescriptionSection = ({
   warnings,
 }: DescriptionSectionProps) => {
   return (
-    <div className={styles["description-section-container"]}>
+    <div className={styles.descriptionSectionContainer}>
       <h2>Описание</h2>
       <p>{description.full}</p>
       {warnings &&
         Object.keys(warnings).map((warningKey) => {
           return (
-            <div key={warningKey} className={styles["warning-container"]}>
+            <div key={warningKey} className={styles.warningContainer}>
               <WarningIcon />
               <p>{warningsMessages[warningKey]}</p>
             </div>
