@@ -35,6 +35,7 @@ export const VideoSection = ({ videos }: VideoSection) => {
           {seriesType === "series" &&
             videos?.seasons?.map((season) => (
               <span
+                key={season.id}
                 onClick={() => onSeasonChange(season.id)}
                 className={[
                   styles.season,
