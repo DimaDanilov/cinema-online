@@ -6,8 +6,10 @@
   flex-direction: column;
   gap: 25px;
   min-width: 300px;
-  width: 50%;
+  width: 500px;
+  max-width: 100%;
   margin: 50px 0;
+  overflow-x: hidden;
 }
 
 .briefCharacteristics {
@@ -47,6 +49,6 @@
 }
 
 .imgReplacement {
-  width: 75%;
+  overflow-x: hidden;
   font-size: 75px;
 }
