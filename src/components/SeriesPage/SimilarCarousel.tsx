@@ -26,8 +26,20 @@ export const SimilarCarousel = ({ id }: SimilarCarouselProps) => {
           .filter((movie) => movie.id !== id)
           .map((movie) => (
             <SwiperSlide key={movie.id} className={styles.swiperSlide}>
-              <Link href={`/series/${movie.id}`}>
-                <img src={movie.posterUrl} alt="" />
+              <Link
+                href={`/series/${movie.id}`}
+                className={styles.newMoviesCarouselElement}
+              >
+                <div
+                  className={["relative", styles.ratingImageContainer].join(
+                    " "
+                  )}
+                >
+                  <img src={movie.posterUrl} alt="" />
+                  <span className={["absolute", styles.ratingBlock].join(" ")}>
+                    {movie.rating}
+                  </span>
+                </div>
               </Link>
             </SwiperSlide>
           ))}

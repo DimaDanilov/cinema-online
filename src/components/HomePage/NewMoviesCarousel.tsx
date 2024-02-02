@@ -27,7 +27,14 @@ export const NewMoviesCarousel = () => {
               href={`/series/${movie.id}`}
               className={styles.newMoviesCarouselElement}
             >
-              <img src={movie.posterUrl} alt="" />
+              <div
+                className={["relative", styles.ratingImageContainer].join(" ")}
+              >
+                <img src={movie.posterUrl} alt="" />
+                <span className={["absolute", styles.ratingBlock].join(" ")}>
+                  {movie.rating}
+                </span>
+              </div>
               <h3 className={styles.newMoviesCarouselElementTitle}>
                 {movie.name.rus}
               </h3>
