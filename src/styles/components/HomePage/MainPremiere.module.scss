@@ -1,7 +1,8 @@
 @use "styles/ui/ImageBackgroundVignette.module.scss";
 
 .premiereContainer {
-  width: 50%;
+  min-width: 30%;
+  max-width: 500px;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -9,7 +10,7 @@
   margin: 200px auto 0;
 
   img {
-    min-width: 250px;
+    min-width: 150px;
     width: 70%;
   }
 
@@ -22,5 +23,12 @@
 .buttonContainer {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex-flow: row wrap;
   gap: 25px;
+
+  a {
+    margin: 0 auto;
+  }
 }
