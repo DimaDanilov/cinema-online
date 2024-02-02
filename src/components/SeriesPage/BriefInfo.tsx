@@ -1,6 +1,6 @@
 import { BookMarkIcon } from "assets/icons/BookMarkIcon";
 import { HeartIcon } from "assets/icons/HeartIcon";
-import styles from "styles/components/BriefInfo.module.scss";
+import styles from "styles/components/SeriesPage/BriefInfo.module.scss";
 import { MovieInfoModel } from "types/MovieInfo";
 import { Button } from "ui/Button";
 

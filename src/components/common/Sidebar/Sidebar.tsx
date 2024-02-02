@@ -1,4 +1,4 @@
-import styles from "styles/components/Sidebar.module.scss";
+import styles from "styles/components/common/Sidebar/Sidebar.module.scss";
 import { HeartIcon } from "assets/icons/HeartIcon";
 import { HomeIcon } from "assets/icons/HomeIcon";
 import { MovieIcon } from "assets/icons/MovieIcon";

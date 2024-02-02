@@ -1,4 +1,4 @@
-import styles from "styles/components/MainPremiere.module.scss";
+import styles from "styles/components/HomePage/MainPremiere.module.scss";
 import mainPremiereData from "data/mainPremiere.json";
 import { MovieInfoModel } from "types/MovieInfo";
 import { Button } from "ui/Button";

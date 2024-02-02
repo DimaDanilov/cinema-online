@@ -2,7 +2,7 @@
 
 import { MovieInfoModel } from "types/MovieInfo";
 import { useEffect, useState } from "react";
-import styles from "styles/components/VideoSection.module.scss";
+import styles from "styles/components/SeriesPage/VideoSection.module.scss";
 import { VideoCarousel } from "./VideoCarousel";
 
 type VideoSection = Pick<MovieInfoModel, "videos">;

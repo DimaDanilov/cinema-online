@@ -1,4 +1,4 @@
-import styles from "styles/components/DescriptionSection.module.scss";
+import styles from "styles/components/SeriesPage/DescriptionSection.module.scss";
 import { WarningIcon } from "assets/icons/WarningIcon";
 import { MovieInfoModel } from "types/MovieInfo";
 import { warningsMessages } from "types/Warnings";

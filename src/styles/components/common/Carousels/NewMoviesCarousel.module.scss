@@ -1,0 +1,18 @@
+@use "styles/partials/carousels";
+@use "styles/abstracts/variables";
+
+.newMoviesCarouselElement {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.newMoviesCarouselElementTitle {
+  text-align: start;
+  text-decoration: none;
+  color: variables.$color-text-primary;
+  font-size: large;
+  font-weight: 300;
+  overflow: hidden;
+  white-space: nowrap;
+}

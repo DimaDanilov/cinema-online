@@ -1,7 +1,7 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
-import "styles/components/Sliders.scss";
+import styles from "styles/components/common/Carousels/EpisodesCarousel.module.scss";
 import { EpisodeModel } from "types/MovieInfo";
 
 type VideoCarouselProps = {
@@ -10,12 +10,12 @@ type VideoCarouselProps = {
 
 export const VideoCarousel = ({ episodes }: VideoCarouselProps) => {
   return (
-    <Swiper slidesPerView={"auto"} spaceBetween={50}>
+    <Swiper slidesPerView={"auto"} spaceBetween={50} className={styles.swiper}>
       {episodes.map((episode) => (
-        <SwiperSlide key={episode.id}>
-          <div className="episodesCarouselElement">
+        <SwiperSlide key={episode.id} className={styles.swiperSlide}>
+          <div className={styles.episodesCarouselElement}>
             <img src={episode.previewImg} alt="" />
-            <div className="episodeInfoContainer">
+            <div className={styles.episodeInfoContainer}>
               <h4>{episode.id} серия</h4>
               <h4 className="duration">{episode.duration}</h4>
             </div>

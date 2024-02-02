@@ -1,6 +1,4 @@
 import { PageLayout } from "layouts/PageLayout/PageLayout";
-import styles from "./page.module.scss";
-
 import { MovieInfoModel } from "types/MovieInfo";
 import { findMovieById } from "utils/findMovieById";
 import { BriefInfo } from "components/SeriesPage/BriefInfo";

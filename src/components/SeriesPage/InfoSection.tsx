@@ -1,4 +1,4 @@
-import styles from "styles/components/infoSection.module.scss";
+import styles from "styles/components/SeriesPage/InfoSection.module.scss";
 import { MovieInfoModel } from "types/MovieInfo";
 import { Button } from "ui/Button";
 
